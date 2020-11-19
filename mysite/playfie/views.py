@@ -9,7 +9,7 @@ from django.http import HttpResponse
 # from the home page of the news 
 
 def index(request):
-	return HttpResponse('<h1> Home</h1>')
+	return HttpResponse('<h1> Playfie Home</h1>')
 
 '''
 def index(request):
