@@ -28,5 +28,5 @@ You can install Django into virtual environment after the activation :
 There is requirements.txt file in the folder where you can see required packages to use in the project. You can install the required packages into virtual environment by the following command : 
 
 ```
-(playfie_env) [server]$ pip3 install requirements.txt 
+(playfie_env) [server]$ pip3 install -r requirements.txt 
 ```
