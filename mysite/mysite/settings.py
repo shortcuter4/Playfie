@@ -37,6 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'playfie.apps.PlayfieConfig' # 'playfie' # we added so that Django knows that there is templates file in the playfie folder 
 ]
 
 MIDDLEWARE = [
