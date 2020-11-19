@@ -1,0 +1,7 @@
+*.pyc
+.directory
+.DS_Store
+.env
+venv
+migrations
+db.sqlite3 
