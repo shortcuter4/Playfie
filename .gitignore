@@ -2,6 +2,7 @@
 .directory
 .DS_Store
 .env
+.idea
 venv
 migrations
 db.sqlite3 
